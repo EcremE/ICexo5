@@ -13,7 +13,7 @@ public final class Multiplication {
      * @return the result of a * b
      */
     public static int mul(int a, int b) {
-        return 0;
+        return a*b;
     }
 
     private Multiplication() {
